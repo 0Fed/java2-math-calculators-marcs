@@ -1,4 +1,4 @@
-package edu.kirkwood.model;
+package edu.kirkwood.model.marc;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
