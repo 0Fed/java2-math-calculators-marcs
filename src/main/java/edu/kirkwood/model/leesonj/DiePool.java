@@ -1,6 +1,6 @@
 package edu.kirkwood.model.leesonj;
 
-import edu.kirkwood.model.Fraction;
+import edu.kirkwood.model.marc.Fraction;
 
 import java.util.Arrays;
 import java.util.Random;

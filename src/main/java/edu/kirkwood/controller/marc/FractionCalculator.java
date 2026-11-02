@@ -1,6 +1,6 @@
 package edu.kirkwood.controller.marc;
 
-import edu.kirkwood.model.Fraction;
+import edu.kirkwood.model.marc.Fraction;
 
 import static edu.kirkwood.view.Messages.fractionGoodbye;
 import static edu.kirkwood.view.Messages.fractionGreet;
