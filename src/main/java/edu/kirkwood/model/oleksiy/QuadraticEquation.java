@@ -1,6 +1,6 @@
 package edu.kirkwood.model.oleksiy;
 
-import edu.kirkwood.model.Fraction;
+import edu.kirkwood.model.marc.Fraction;
 
 import java.text.DecimalFormat;
 
