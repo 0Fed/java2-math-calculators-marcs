@@ -1,4 +1,4 @@
-package edu.kirkwood.models;
+package edu.kirkwood.model.morgan;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 import org.junit.jupiter.api.Test;
 
-import edu.kirkwood.model.Coordinate;
+import edu.kirkwood.model.morgan.Coordinate;
 
 /**
  * Unit tests for {@link Coordinate}.

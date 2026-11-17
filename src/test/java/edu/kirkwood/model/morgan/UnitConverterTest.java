@@ -1,4 +1,4 @@
-package edu.kirkwood.models;
+package edu.kirkwood.model.morgan;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -7,8 +7,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import edu.kirkwood.model.DistanceUnit;
-import edu.kirkwood.model.UnitConverter;
+import edu.kirkwood.model.morgan.DistanceUnit;
+import edu.kirkwood.model.morgan.UnitConverter;
 
 /**
  * Unit tests for {@link UnitConverter}.
